@@ -2,7 +2,7 @@
 
 Welcome to the official software distribution hub for **Hidden Gibbon MTG**!
 
-We develop free companion applications for Magic: The Gathering players, collectors, and tournament organizers.
+We develop free companion applications for Magic: The Gathering players, and collectors.
 
 Our goal is to provide practical, accessible tools that make playing, collecting, and organizing Magic easier.
 
